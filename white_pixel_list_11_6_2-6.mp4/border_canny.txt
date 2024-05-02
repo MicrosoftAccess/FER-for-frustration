@@ -1,0 +1,10 @@
+7392->frame_120_bounding-box.jpg pixeles blancos
+7487->frame_30_bounding-box.jpg pixeles blancos
+7568->frame_60_bounding-box.jpg pixeles blancos
+7616->frame_270_bounding-box.jpg pixeles blancos
+7672->frame_180_bounding-box.jpg pixeles blancos
+7728->frame_150_bounding-box.jpg pixeles blancos
+7775->frame_90_bounding-box.jpg pixeles blancos
+7937->frame_240_bounding-box.jpg pixeles blancos
+7978->frame_300_bounding-box.jpg pixeles blancos
+7998->frame_210_bounding-box.jpg pixeles blancos
